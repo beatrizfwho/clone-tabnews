@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "implentação do tabnews para o curso.dev",
+  "homepage": "https://github.com/beatrizfwho/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/beatrizfwho/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatrizfwho/clone-tabnews.git"
+  },
+  "license": "ISC",
+  "author": "Beatriz Fernandes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
