@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>oi victor monteiro torres eu ti amo muitoooooooooooooooo</h1>;
+  return <h1>to live for the hope of it all</h1>;
 }
 
 export default Home;
